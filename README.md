@@ -15,7 +15,7 @@ Tuneverse Player is an interactive music player application designed to provide 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/tuneverse-player
    cd tuneverse-player
    ```
 2. Install the necessary dependencies:
